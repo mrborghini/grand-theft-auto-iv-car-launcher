@@ -6,7 +6,7 @@ This mod launches cars a random speed forward or backwards every 10 seconds.
 
 1. [Download GTA 4 .Net ScriptHook](https://github.com/HazardX/gta4_scripthookdotnet/releases/tag/v1.7.1.7b)
 2. Unzip it and add add the files and folders to your GTA IV folder
-3. [Download the .dll file](/releases/) and put in the scripts folder of your GTA IV
+3. [Download the .dll file](https://github.com/mrborghini/grand-theft-auto-iv-car-launcher/releases) and put in the scripts folder of your GTA IV
 4. You should be able to launch GTA IV.
 
 ## How to build the mod?
